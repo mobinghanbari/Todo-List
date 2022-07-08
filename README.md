@@ -13,7 +13,6 @@ I offer you to use the last Python version to don't get the problem
 
 ```
 git clone git@github.com:mobinghanbari/Todo-List.git
-
 ```
 
 ```
@@ -31,11 +30,9 @@ pip install -r requirements.txt
 
 ```
 python manage.py migrate
-
 ```
 ```
 python manage.py runserver
-
 ```
 
 ### 4 . Go to the below url
@@ -50,11 +47,9 @@ http://127.0.0.1:8000/
 
 ```
 python manage.py createsuperuser
-
 ```
 ```
 python manage.py runserver
-
 ```
 
 ### 2 . Go to the below address
